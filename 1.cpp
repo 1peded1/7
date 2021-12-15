@@ -7,7 +7,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	int  a, b, x, y;
+	int  a, b;
 	cout << "\n������ A: ";
 	cin >> a;
 	cout << "\n������ B: ";
